@@ -5,12 +5,12 @@ Test app while learning SocketIO
 `git clone https://github.com/marekpetak/socketio-test-chat.git`
 
 #### Install dependencies
-yarn install or npm install
+`yarn install or npm install`
 
-npm install -g nodemon
+`npm install -g nodemon`
 
 #### Run
-nodemon index.js
+`nodemon index.js`
 
 #### Browse
-localhost:3000
+`localhost:3000`
