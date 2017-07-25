@@ -1,5 +1,5 @@
 # socketio-test-chat
-Test app while learning SocketIO
+Simple chat app developed while learning socket.io
 
 #### Clone
 `git clone https://github.com/marekpetak/socketio-test-chat.git`
